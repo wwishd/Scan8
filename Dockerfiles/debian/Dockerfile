@@ -1,5 +1,5 @@
 #base image ubuntu
-FROM debian:jessie
+FROM debian:stable-backports
 
 WORKDIR /home/flask
 

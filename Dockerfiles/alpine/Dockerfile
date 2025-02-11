@@ -1,5 +1,5 @@
 #base image alpine
-FROM alpine:3.10
+FROM alpine:3.21
 
 WORKDIR /home/flask
 
